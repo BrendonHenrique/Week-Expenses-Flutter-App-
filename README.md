@@ -23,8 +23,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-## Illustration 
-
 <h1> Introduce the expense title and value </h1>
 <p align="center">
     <img src="https://raw.githubusercontent.com/BrendonHenrique/Week-Expenses-Flutter-App-/master/screenshots/001.jpg" width="400" height="700"> 
