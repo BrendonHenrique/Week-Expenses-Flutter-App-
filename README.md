@@ -1,4 +1,4 @@
-# Weekly Expenses App . made by flutter
+# Weekly Expenses App . made by flutter + Dart
 
 This is my first Flutter app.
 This project are currently rolled-out as Beta version at Google Play Store.
@@ -27,15 +27,15 @@ samples, guidance on mobile development, and a full API reference.
 
 <h1> Introduce the expense title and value </h1>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/BrendonHenrique/Week-Expenses-Flutter-App-/master/screenshots/001.jpg" width="400" height="300"> 
+    <img src="https://raw.githubusercontent.com/BrendonHenrique/Week-Expenses-Flutter-App-/master/screenshots/001.jpg" width="400" height="700"> 
 </p>
 
 <h1> Look for the expense date </h1>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/BrendonHenrique/Week-Expenses-Flutter-App-/master/screenshots/002.jpg" width="400" height="400">
+    <img src="https://raw.githubusercontent.com/BrendonHenrique/Week-Expenses-Flutter-App-/master/screenshots/002.jpg" width="400" height="700">
 </p>
 
 <h1> Save it and find out the week day more expensive </h1>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/BrendonHenrique/Week-Expenses-Flutter-App-/master/screenshots/003.jpg" width="400" height="400">
+    <img src="https://raw.githubusercontent.com/BrendonHenrique/Week-Expenses-Flutter-App-/master/screenshots/003.jpg" width="400" height="700">
 </p>
